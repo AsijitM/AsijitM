@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asijitm&label=Profile%20views&color=0e75b6&style=flat" alt="asijitm" /> </p>
 
-- 🔭 I’m currently working on **MERN stack projects**
+- 🔭 I’m currently working on **DevOps**
 
 - 🌱 I’m currently learning **Java,React, Firebase**
 
